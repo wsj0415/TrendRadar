@@ -58,6 +58,19 @@ ai
 智能体
 ai agent
 
+claude code
+openai codex
+geimni cli
+cursor
+trae
+Visual Studio Code
+Qodo
+kilo code
+GitHub Copilot
+CodeBuddy
+Windsurf
+VS Code
+
 自动驾驶
 
 机器人
@@ -69,6 +82,7 @@ ai agent
 
 芯片
 光刻机
+半导体
 
 科技
 
